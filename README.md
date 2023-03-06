@@ -1,4 +1,4 @@
-## Node.js TypeScript Template with Express and MongoDB
+# Node.js TypeScript Template with Express and MongoDB
 
 This is a TypeScript template for a Node.js project using the Express framework and MongoDB as the database. The template contains the following features:
 
@@ -53,16 +53,16 @@ The project includes code for user login, signup, logout, creating, updating, an
     - auth.validation.ts
     - tweet.validation.ts
 
-## Setup
+# Setup
 - Clone this repository.
 - Run npm install to install all dependencies.
 - Create a .env file in the root directory and add your environment variables (refer to config/config.ts for required variables).
 - Run npm run start to start the server.
 - Access the server at http://localhost:3000.
 
-## Usage
+# Usage
 
-# Routes
+## Routes
 All routes are defined in the routes folder. There are currently two routes: auth and tweet.
 
 Auth Routes
