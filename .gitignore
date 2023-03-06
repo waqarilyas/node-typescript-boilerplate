@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+.env
+
+# add package-lock.json to .gitignore
+package-lock.json
