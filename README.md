@@ -90,5 +90,5 @@ API rate limiting is implemented using the rateLimiter middleware in the middlew
 All responses are managed using the Error and Success middlewares in the middlewares folder.
 
 ## Tests
-ests are written using Chai and can be found in tests folder.
+Tests are written using Chai and can be found in tests folder.
 
